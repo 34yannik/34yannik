@@ -22,6 +22,5 @@ Developer focused on game addons and small desktop applications that improve qua
 ## 🎲 Fun Facts 
 - I love cats.
 - I don't like bees.
-- 
 
 > "Building things that make life easier. Open for questions on discord - `aapfel`"
