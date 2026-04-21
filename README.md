@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey 
+Developer focused on game addons and small desktop applications that improve quality of life. 
 
-<!--
-**34yannik/34yannik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+## 🚀 About Me 
+- Building Minecraft plugins & game-related tools
+- Creating small desktop apps to automate tasks
+- Always learning & improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+## 📌 Projects 
+- Minecraft Plugin Systems
+- Desktop Tools & Utilities
+- Experimental / fun projects
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=34yannik&layout=compact&theme=tokyonight) 
+
+--- 
+
+> "Building things that make life easier. Open for questions on discord - `aapfel`"
