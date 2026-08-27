@@ -19,6 +19,8 @@ Developer focused on game addons and small desktop applications that improve qua
 
 --- 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Moonyra&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Moonyra&layout=compact&langs_count=4&theme=radical)
+
 ## Fun Facts 
 - I love cats.
 - I don't like bees.
